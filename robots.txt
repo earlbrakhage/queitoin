@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://vahcoongu.gravityblvd.com/sitemap.xml
